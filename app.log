@@ -1,0 +1,35 @@
+2018-03-07 15:15:17.418 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 20854 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:15:17.421 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:15:20.660 [restartedMain] INFO  com.packageA.Application - Started Application in 3.399 seconds (JVM running for 3.954)
+2018-03-07 15:38:39.421 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 21366 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:38:39.425 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:38:42.562 [restartedMain] INFO  com.packageA.Application - Started Application in 3.314 seconds (JVM running for 3.85)
+2018-03-07 15:39:24.444 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 21494 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:39:24.447 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:39:27.562 [restartedMain] INFO  com.packageA.Application - Started Application in 3.282 seconds (JVM running for 3.823)
+2018-03-07 15:40:51.979 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 21606 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:40:51.982 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:40:55.122 [restartedMain] INFO  com.packageA.Application - Started Application in 3.3 seconds (JVM running for 3.827)
+2018-03-07 15:41:30.989 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 21702 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:41:30.992 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:41:34.480 [restartedMain] INFO  com.packageA.Application - Started Application in 3.657 seconds (JVM running for 4.244)
+2018-03-07 15:47:13.208 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 22484 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:47:13.211 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:47:16.136 [restartedMain] INFO  com.packageA.Application - Started Application in 3.09 seconds (JVM running for 3.65)
+2018-03-07 15:48:01.089 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 22720 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:48:01.093 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:48:47.272 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 22847 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:48:47.275 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:48:53.933 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 22948 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-07 15:48:53.946 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-07 15:48:56.938 [restartedMain] INFO  com.packageA.Application - Started Application in 3.214 seconds (JVM running for 3.752)
+2018-03-08 10:06:29.137 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 14054 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-08 10:06:29.164 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-08 10:09:15.651 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 14535 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-08 10:09:15.654 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-08 10:09:19.682 [restartedMain] INFO  com.packageA.Application - Started Application in 4.288 seconds (JVM running for 4.955)
+2018-03-08 10:11:40.684 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 14905 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-08 10:11:40.687 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default
+2018-03-08 10:11:43.788 [restartedMain] INFO  com.packageA.Application - Started Application in 3.261 seconds (JVM running for 3.801)
+2018-03-08 10:12:08.455 [restartedMain] INFO  com.packageA.Application - Starting Application on rajeeva-pc with PID 15038 (/home/rajeeva/projects/Spring/multiModule/heart-rate/modules/heart-rate-core/target/classes started by rajeeva in /home/rajeeva/projects/Spring/multiModule/heart-rate)
+2018-03-08 10:12:08.458 [restartedMain] INFO  com.packageA.Application - No active profile set, falling back to default profiles: default

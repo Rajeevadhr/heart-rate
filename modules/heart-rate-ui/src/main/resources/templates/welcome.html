@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link th:href="@{/css/welcome.css}" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>|Items|</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 style="text-align: center"> Welcome </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2"> </div>
+            <div class="col-md-4">
+                <form method="get" action="/invoice">
+                    <input type="submit" value="Go to invoice" />
+                </form>
+            </div>
+            <div class="col-md-4">
+                <form style="text-align: right">
+                    <input type="text" name="keyword" />
+                    <input type="submit" value="Search" />
+                </form>
+            </div>
+            <div class="col-md-2"> </div>
+        </div>
+        <div class="row" style="margin-top: 40px">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <table class="table-bordered table-condensed table-hover">
+                    <tr>
+                        <th> Item ID </th>
+                        <th> Name </th>
+                        <th> Price </th>
+                    </tr>
+                    <!--<tr th:each="currentItem, stat : ${itemList}">-->
+                        <!--<td th:text="${currentItem.getId()}" />-->
+                        <!--<td th:text="${currentItem.getItemName()}" />-->
+                        <!--<td th:text="${currentItem.getPrice()}" />-->
+                    <!--</tr>-->
+                </table>
+                <div class="row">
+                    <div class="col-md-12" style="text-align: center">
+                        <ul class="pagination">
+                            <!--<li th:each="i : ${#numbers.sequence( 1, numberOfPages)}"-->
+                                <!--th:class="${T(Integer).parseInt(page) == (i-1)} ? 'active' : '' ">-->
+                                <!--<a th:href="@{/(page=${i-1},keyword=${keyword})}"-->
+                                   <!--th:text="${ i }"></a>-->
+                            <!--</li>-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+</body>
+</html>

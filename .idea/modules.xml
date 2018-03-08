@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/heart-rate.iml" filepath="$PROJECT_DIR$/heart-rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/heart-rate-core/heart-rate-core.iml" filepath="$PROJECT_DIR$/modules/heart-rate-core/heart-rate-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/heart-rate-ui/heart-rate-ui.iml" filepath="$PROJECT_DIR$/modules/heart-rate-ui/heart-rate-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+    </modules>
+  </component>
+</project>
